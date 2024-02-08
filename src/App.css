@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+section{
+  background-image: url(./Assets/home-bg.jpg);
+}
