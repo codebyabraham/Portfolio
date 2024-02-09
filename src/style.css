@@ -321,6 +321,7 @@ html {
     position: relative;
     padding-bottom: 70px !important;
     padding-top: 70px !important;
+    background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
   }
   
   .home-about-description {
